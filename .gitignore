@@ -1,0 +1,10 @@
+.env
+.env.*
+.venv*/
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/*
+!.idea/runConfigurations/
+.idea/runConfigurations/*
+!.idea/runConfigurations/GenMOF.xml

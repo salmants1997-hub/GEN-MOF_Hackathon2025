@@ -1,4 +1,4 @@
-groq
+openai>=2,<3
 streamlit
 pypdf
 python-dotenv

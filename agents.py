@@ -1,6 +1,6 @@
 import json
 from pypdf import PdfReader
-from groq_client import call_llm
+from openai_client import call_llm
 
 
 # ---------------------------

@@ -9,13 +9,13 @@ from agents import (
     agent3_predict_applications,
 )
 
-st.set_page_config(page_title="GenMOF – Groq-powered MOF App", layout="wide")
+st.set_page_config(page_title="GenMOF – OpenAI-powered MOF App", layout="wide")
 
-st.title("🧪 GenMOF – Groq-powered MOF/COF Synthesis & Application Explorer")
+st.title("🧪 GenMOF – OpenAI-powered MOF/COF Synthesis & Application Explorer")
 
 st.markdown(
     """
-This prototype uses **Groq-hosted LLMs** to help with **COF/MOF discovery**
+This prototype uses **the OpenAI API** to help with **COF/MOF discovery**
 for **water treatment applications**.
 
 Pipeline:
